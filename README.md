@@ -12,7 +12,7 @@
  </ul>
 
 
-<h1 align="left">Connect with me</h1>
+<h1 align="left">Connect with me <img src="https://thumbs.gfycat.com/HeftyGreenAidi-max-1mb.gif" alt="" width=100px height=50px/></h1>
 <p align="left">
 <a href="https://linkedin.com/in/avinash-k-8691021a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-k-8691021a8/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/channel/uc3uqjm4vm0ba7hxwmu6aymg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc3uqjm4vm0ba7hxwmu6aymg" height="30" width="40" /></a>
