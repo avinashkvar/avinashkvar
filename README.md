@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Avinash K</h1>
 <h3 align="center">Aspiring full stack Web-Developer from Masai School.</h3>
 
+🔭 Intrigued to learn new technologies in Web Development.
+
+🌱 I’m Currently learning MERN stack at MASAI school.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/avinash-k-8691021a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash-k-8691021a8/" height="30" width="40" /></a>
