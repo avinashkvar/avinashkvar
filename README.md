@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Avinash K</h1>
 <h3 align="center">Aspiring full stack Web-Developer from Masai School.</h3>
 
-🔭 Intrigued to learn new technologies in Web Development.
+.🔭 Intrigued to learn new technologies in Web Development.
 
-🌱 I’m Currently learning MERN stack at MASAI school.
+.🌱 I’m Currently learning MERN stack at MASAI school.
+
+.![image](https://user-images.githubusercontent.com/98077343/164002944-ef50adc2-2a4f-485d-8b87-e6e7c2aba252.png) I’m looking to collaborate on OpenSource Projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
