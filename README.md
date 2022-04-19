@@ -1,3 +1,12 @@
+
+   <center>
+			<img
+				src="https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png"
+				alt=""
+                width="700px"
+                height="500px"
+			/>
+		</center>
 <h1 align="center">Hi 👋, I'm Avinash K</h1>
 <h3 align="center">Aspiring full stack Web-Developer from Masai School.</h3>
 
