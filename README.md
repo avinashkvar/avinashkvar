@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="" />
 <h1 align="center">Hi 👋, I'm Avinash K</h1>
 <h3 align="center">Aspiring full stack Web-Developer from Masai School.</h3>
+<a align="center" href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Aspiring+MERN+Stack+Developer;%20Enthusiastic%20and%20Motivated;I%20Always%20enjoy%20learning%20new%20things&center=true&width=800&height=60"></a>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""  align="right" width="400px" height="300px" style="border-radius:50px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkvar&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkvar" /> </p>
 <h1>About Me </h1>
