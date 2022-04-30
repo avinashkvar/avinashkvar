@@ -9,7 +9,8 @@
   <li>🔭 Intrigued to learn new technologies in Web Development.</li>
   <li>🌱 I’m currently learning Data Structures and Algorithms.</li>
   <li>📫 How to reach me connect.avinashk17avi@gmail.com</li>
-  <li>👨🏽‍💻   I’m looking to collaborate on OpenSource Projects</li>
+  <li>👨🏽‍💻 I’m looking to collaborate on OpenSource Projects</li>
+  <li>👉 My portfolio https://avinash-k-portfolio.vercel.app/</li>
  </ul>
 
 
