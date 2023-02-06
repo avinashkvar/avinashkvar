@@ -50,6 +50,12 @@
 				alt=""
 			/>
 		</a>
+	        <a href="https://reactrouter.com/en/main">
+			<img
+				src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+				alt=""
+			/>
+		</a>
 		<a href="https://redux.js.org/" target="_blank">
 			<img
 				src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
@@ -98,6 +104,13 @@
        <a href="https://www.netlify.com/">
           <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="">
        </a>
+	<a href="https://www.npmjs.com/">
+			<img
+				src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
+				alt=""
+			/>
+		</a>
+		
 </p>
 <p>  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avinashkvar&theme=minimal" alt=""></p>
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashkvar&show_icons=true&locale=en&layout=compact" alt="avinashkvar" "/></p>
