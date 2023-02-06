@@ -92,8 +92,9 @@
 				alt=""
 			/>
 		</a> </p>
-
+<p>  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avinashkvar&theme=minimal" alt=""></p>
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashkvar&show_icons=true&locale=en&layout=compact" alt="avinashkvar" "/></p>
+	<p><img src="https://github-profile-trophy.vercel.app/?username=avinashkvar" alt=""></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashkvar&show_icons=true&locale=en" alt="avinashkvar" /></p>
 
