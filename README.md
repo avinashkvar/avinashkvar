@@ -16,7 +16,9 @@
 
 <h1 align="left">Connect with me <img src="https://thumbs.gfycat.com/HeftyGreenAidi-max-1mb.gif" alt="" width=100px height=50px/></h1>
 <p align="left">
-<a href="https://linkedin.com/in/avinash-k-8691021a8/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avinash-k-8691021a8/" /></a>
+<a href="https://linkedin.com/in/avinash-k-8691021a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avinash-k-8691021a8/" /><a href="mailto:avinashk17avi@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
+        </a></a>
 </p>
 
 <h1 align="left">Skills</h1>
