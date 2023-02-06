@@ -91,7 +91,14 @@
 				src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"
 				alt=""
 			/>
-		</a> </p>
+		</a> 
+	   <a href="https://vercel.com/">
+             <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="">
+        </a>
+       <a href="https://www.netlify.com/">
+          <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="">
+       </a>
+</p>
 <p>  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avinashkvar&theme=minimal" alt=""></p>
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashkvar&show_icons=true&locale=en&layout=compact" alt="avinashkvar" "/></p>
 	<p><img src="https://github-profile-trophy.vercel.app/?username=avinashkvar" alt=""></p>
